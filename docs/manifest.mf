@@ -1,0 +1,12 @@
+CACHE MANIFEST
+#Version 0.1
+
+combat.js
+globals.js
+index.html
+index2.html
+interface.css
+main.js
+projects.js
+title.png
+titlescreen.css

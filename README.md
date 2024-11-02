@@ -1,3 +1,5 @@
+This experiment of android port was a fail.
+
 # Universal Paperclips, a game by Frank Lantz and Bennett Foddy
 
 - [Mirrored](./mirror.sh) from [original](http://www.decisionproblem.com/paperclips/)
